@@ -42,7 +42,7 @@
 
 #define DRIVER_AUTHOR		"Gareth Hughes, Keith Whitwell, others."
 
-#define DRIVER_NAME		"radeon"
+#define DRIVER_NAME		"radeon_v2_raszit"
 #define DRIVER_DESC		"ATI Radeon"
 #define DRIVER_DATE		"20080528"
 
